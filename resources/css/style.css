@@ -1,0 +1,57 @@
+* {
+    background-color: black;
+}
+
+.header h1 {
+    color: white;
+    font-family: verdana;
+    font-size: 50px;
+    text-align: center;
+}
+
+.header p, a {
+    color: aquamarine;
+    font-family: verdana;
+    font-size: 16px;
+    text-align: center;
+}
+
+.body video {
+    display: block;
+    margin: auto;
+}
+
+.body h1 {
+    font-family: verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+
+.body p {
+    font-family: verdana;
+    font-size: 21px;
+    color: grey;
+    text-align: center;
+}
+
+.body #body-camp-site {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.body #body-phone-icon {
+    display: block;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer p {
+    font-family: verdana;
+    color: grey;
+    text-align: right;
+}
+
